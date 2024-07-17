@@ -10,3 +10,17 @@
     color: aqua;
 }
 
+.main {
+    text-align: center;
+}
+
+.recipe {
+    font-family: "Courier New", Arial, Helvetica, sans-serif;
+    color: blueviolet;
+}
+
+div {
+    font-family:"Courier New", Arial, Helvetica, sans-serif;
+    color: black;
+    font-size: x-large;
+}
